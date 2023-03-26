@@ -1,0 +1,10 @@
+# Output
+target/
+*.class
+*.jar
+*.war
+# IDE settings
+.idea/
+*.iml
+.settings/
+.classpath
